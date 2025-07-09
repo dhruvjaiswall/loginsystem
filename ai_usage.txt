@@ -1,0 +1,15 @@
+## 🤖 AI Tools Usage & Documentation
+
+This project was built using knowledge of HTML, CSS, and Node.js.
+
+During the development process, ChatGPT (by OpenAI) was used as a learning and support tool for the following:
+
+- Understanding how to securely compare passwords and hash them using `bcryptjs`
+- Figuring out how to structure login/logout flows using session-like behavior
+- Solving Git errors( remote origin issues, push problems)
+- Helping create clear documentation such as README and final documentation for project
+
+The actual code — including HTML structure, CSS styling, and Node.js logic.  
+AI support was used **only to understand certain functions, improve flow, and polish the final product**.
+
+This statement is made to clear project rules on AI tool usage.
